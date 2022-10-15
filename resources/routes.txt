@@ -1,0 +1,27 @@
+*size
+18
+*weights
+a 73 b
+a 64 c
+a 89 d
+a 104 e
+b 83 k
+k 35 h
+h 36 l
+l 28 i
+i 31 f
+i 20 m
+m 50 o
+l 63 p
+p 41 o
+o 72 r
+p 65 r
+q 65 r
+f 84 n
+n 53 j
+j 35 g
+j 80 q
+g 113 q
+c 64 i
+d 89 n
+e 40 j
